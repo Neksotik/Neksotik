@@ -30,3 +30,4 @@ src="https://img.shields.io/twitch/status/neksotik?logo=twitchsx&style=for-the-b
 <a href="http://www.github.com/Neksotik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neksotik&stroke=ef4444&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
 <a href="https://github.com/Neksotik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neksotik&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neksotik&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
